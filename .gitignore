@@ -8,9 +8,3 @@ packages/
 *.exe
 *.pdb
 *.cache
-Source/RMS/.vs/config/applicationhost.config
-Source/RMS/.vs/RMS/v14/.suo
-Source/RMS/.vs/RMS/v15/Server/sqlite3/db.lock
-Source/RMS/RMS.Tests/obj/Debug/RMS.Tests.csproj.CopyComplete
-Source/RMS/.vs/RMS/v15/sqlite3/db.lock
-Source/RMS/.vs/RMS/v15/Server/sqlite3/storage.ide
